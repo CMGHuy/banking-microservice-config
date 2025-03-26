@@ -5,7 +5,7 @@ loans:
   message: "Welcome to Loans Microservice related Prod APIs"
   contactDetails:
     name: "Huy Cao Loans Prod"
-    email: "caogiahuyprod@yahoo.com"
+    email: "{cipher}2d3a73305cc5a7eb9d31c1b7e6807534f9ceac23cef7c4a54a4be0f44999b14790250aaaf8f774a5e4dd1266320c613b"
   onCallSupport:
     - (723) 656-8709
     - (156) 342-0956

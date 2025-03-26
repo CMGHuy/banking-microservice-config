@@ -5,7 +5,7 @@ loans:
   message: "Welcome to Loans Microservice related QA APIs"
   contactDetails:
     name: "Huy Cao Loans QA"
-    email: "{cipher}ddca323cf726c0fce4cb3d63c70275b24b24df209509e1d7f841f2d0e4992a943fe106a600cf2cc2c693382b84235b8c"
+    email: "ddca323cf726c0fce4cb3d63c70275b24b24df209509e1d7f841f2d0e4992a943fe106a600cf2cc2c693382b84235b8c"
   onCallSupport:
     - (785) 545-6565
     - (853) 546-3467

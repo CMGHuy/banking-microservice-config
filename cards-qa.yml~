@@ -5,7 +5,7 @@ cards:
   message: "Welcome to Cards Microservice related Prod APIs"
   contactDetails:
     name: "Huy Cao Cards QA"
-    email: "{cipher}ddca323cf726c0fce4cb3d63c70275b24b24df209509e1d7f841f2d0e4992a943fe106a600cf2cc2c693382b84235b8c"
+    email: "ddca323cf726c0fce4cb3d63c70275b24b24df209509e1d7f841f2d0e4992a943fe106a600cf2cc2c693382b84235b8c"
   onCallSupport:
     - (310) 875-4367
     - (201) 236-1267
