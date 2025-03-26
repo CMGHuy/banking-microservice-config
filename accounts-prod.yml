@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Accounts Microservice related Prod APIs"
+  contactDetails:
+    name: "Huy Cao Accounts Prod"
+    email: "caogiahuyprod@yahoo.com"
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-8371
