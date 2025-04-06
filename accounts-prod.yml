@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Accounts Microservice related Production APIs"
+  message: "Welcome to Accounts Microservice related Prod APIs"
   contactDetails:
     name: "Huy Cao Accounts Production"
     email: "{cipher}2d3a73305cc5a7eb9d31c1b7e6807534f9ceac23cef7c4a54a4be0f44999b14790250aaaf8f774a5e4dd1266320c613b"
